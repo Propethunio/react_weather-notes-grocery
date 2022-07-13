@@ -1,0 +1,25 @@
+.note.new {
+  background-color: #67d7cc;
+}
+
+textarea {
+  border: none;
+  resize: none;
+  background-color: inherit;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+.btn {
+  border: none;
+  border-radius: 15px;
+  padding: 5px 10px;
+  background-color: #e1e1e1;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #ededed;
+}

@@ -1,0 +1,23 @@
+.nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  width: 400px;
+  margin: auto;
+}
+
+.nav button {
+  margin: 10px 0;
+  padding: 15px 0;
+  letter-spacing: 1px;
+  font-size: 1.125rem;
+  border: none;
+  background-color: #ff8c00;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.nav button:hover {
+  background-color: #d17300;
+}
