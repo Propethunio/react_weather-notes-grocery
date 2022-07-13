@@ -15,9 +15,9 @@ const Nav = () => {
       </button>
       <button
         onClick={() => {
-          navigate("/shopping");
+          navigate("/grocery");
         }}
-        className="shopping"
+        className="grocery"
       >
         Shopping list
       </button>
